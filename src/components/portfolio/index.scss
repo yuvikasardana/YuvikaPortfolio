@@ -128,7 +128,8 @@
         .image-box{
             height:200px;
             max-width: calc(50% - 10px);
-
+            
+          
             &:hover .content{
               top:0;               
              }
@@ -136,3 +137,34 @@
 
     }
 }
+@media screen and (max-width: 600px) {
+    .portfolio-page {
+      padding: 10px;
+    
+  
+    h1.page-title {
+      margin-left: 10px;
+      margin-top: 10px;
+      //font-size: 1.5rem; /* Adjust font size for smaller screens */
+    }
+  
+    .image-box {
+      height: 200px; /* Adjust height for smaller screens */
+      max-width:  calc(50% - 10px); /* Make image boxes full width on small screens */
+      margin-bottom: 10px; /* Add some space between image boxes */
+     .content{
+         left:-10px;
+        .title{
+            font-size:16px;
+        }
+        .description{
+            font-size:9px;
+        }
+    }
+    //   &:hover .content {
+    //     top: -100px;
+    //     bottom:100px;
+    //    }
+    }
+  }
+  }
