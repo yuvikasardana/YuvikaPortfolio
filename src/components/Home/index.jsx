@@ -1,4 +1,4 @@
- import LogoTitle from '../../assets/images/coolY.png'
+ import LogoTitle from '../../assets/images/newY.png'
  import { Link } from 'react-router-dom';
  import './index.scss'
  import { useState,useEffect } from 'react';

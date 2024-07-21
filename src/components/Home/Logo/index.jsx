@@ -1,5 +1,5 @@
 import './logo.scss'
-import LogoY from '../../../assets/images/bigY.png'
+import LogoY from '../../../assets/images/newY.png'
 import { useRef,useEffect } from 'react';
 import anime from 'animejs';
 const Logo=()=>{
