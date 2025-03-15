@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "yuvikaportfolio"
-  }
+    "default": "yuvikaportfolio",
+    "portfolio": "yuvikaportfolio"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
