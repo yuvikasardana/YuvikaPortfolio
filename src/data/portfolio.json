@@ -1,16 +1,22 @@
 {
     "portfolio":[
         {
-            "cover":"/portfolio/AdventureRetreat/adv_cover.png",
-            "title":"Adventure Retreat",
-            "description":" A fullstack web application to view, add and rate campgrounds utilising MongoDB, Express, Node, Mapbox API etc",
-            "url":"https://github.com/yuvikasardana/Adventure-Retreat"
+            "cover":"/portfolio/CrackGen/cg_cover.png",
+            "title":"CrackGen",
+            "description":"A DL based tool to  detect and quantify pavement cracks in images",
+            "url":"https://drive.google.com/drive/folders/1ci0kM3QedEunZh_6aEDz1f3LUcueWRfb"
         },
         {
             "cover":"/portfolio/MoodStream/ms_cover.png",
             "title":"MoodStream",
             "description":"An ML based application which detects your emotions based on facial recognition and suggests upto 10 songs based on your mood.",
-            "url":"https://github.com/yuvikasardana/MoodStream"
+            "url":"https://moodstream-qrzn.onrender.com/"
+        },
+        {
+            "cover":"/portfolio/CyberGuard/cg_cover.png",
+            "title":"CyberGuard Chronicles",
+            "description":"A role-playing game built on Godot 4 to promote cybersecurity awareness.",
+            "url":"https://drive.google.com/drive/folders/1ci0kM3QedEunZh_6aEDz1f3LUcueWRfb"
         },
         {
             "cover":"/portfolio/ResumeExpert/re_cover.png",
@@ -19,10 +25,11 @@
             "url":"https://github.com/yuvikasardana/Resume-ATS"
         },
         {
-            "cover":"/portfolio/CyberGuard/cg_cover.png",
-            "title":"CyberGuard Chronicles",
-            "description":"A role-playing game built on Godot 4 to promote cybersecurity awareness.",
-            "url":"https://drive.google.com/drive/folders/1ci0kM3QedEunZh_6aEDz1f3LUcueWRfb"
+            "cover":"/portfolio/AdventureRetreat/adv_cover.png",
+            "title":"Adventure Retreat",
+            "description":" A fullstack web application to view, add and rate campgrounds utilising MongoDB, Express, Node, Mapbox API etc",
+            "url":"https://github.com/yuvikasardana/Adventure-Retreat"
         }
+
     ]
 }

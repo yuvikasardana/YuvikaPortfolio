@@ -25,13 +25,13 @@ const About=()=>{
                 idx={15}
                 /> 
                 </h1>
-                <p> I am currently pursuing a Bachelor of Technology in Computer Engineering at Thapar University. I am proficient in the MERN stack, MySQL, C++, and C. 
+                <p> I am currently pursuing a Bachelor of Technology in Computer Engineering at Thapar University. I am proficient in  C++, Python, MySQL and JavaScript. I specialize in Machine Learnig and web Development 
                 </p>
                 <p>
-                   Driven by a passion for data science, I am actively seeking a summer internship in this field. My strengths lie in mathematics and logical reasoning. Additionally, I also possess good speaking and communication skills. 
+                  My most recent internship was with Optum (UHG) where I worked on web development and NLP based projects for automating the internal scheduling task for the Production Control Team.
                 </p>
                 <p>
-                Beyond my professional pursuits, I have a love for reading fiction , I love making playlists and discovering new music and am very fond of long bicycle rides.
+                Beyond my professional pursuits, I have a love for reading fiction and fantasy novels, I love making playlists and discovering new music, I also love to go on long walks and bicycle rides with my friends.
                 </p>
                  
             </div>

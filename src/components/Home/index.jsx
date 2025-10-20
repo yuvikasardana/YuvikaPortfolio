@@ -40,7 +40,7 @@ useEffect(() => {
                 idx={15}/>
                 <br/>
                 </h1>
-                <h2>FullStack Developer/Computer Engineer at TIET </h2>
+                <h2> Software Engineer| Machine Learning Enthusiast | Computer Engineering Student at TIET</h2>
                 <Link to="/contact" className="flat-button">CONTACT ME</Link>
             </div>
             <Logo/>
